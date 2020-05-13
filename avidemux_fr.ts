@@ -11,7 +11,7 @@
     <message>
         <location line="+31"/>
         <source>Decoding video...</source>
-        <translation type="unfinished"></translation>
+        <translation>Décodage Vidéo...</translation>
     </message>
     <message>
         <location line="+115"/>
@@ -32,42 +32,42 @@ Ignorer les informations de timing ?</translation>
     <message>
         <location filename="../../common/ADM_editor/src/ADM_edit.cpp" line="+425"/>
         <source>Cannot find a demuxer for %s</source>
-        <translation>Impossible de trouver un demuxer pour lire %s</translation>
+        <translation>Impossible de trouver un démultiplexeur pour %s</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Attempt to open %s failed!</source>
-        <translation>l&apos;ouverture de %s a echouée !</translation>
+        <translation>La tentative d'ouverture de %s a échouée !</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>width</source>
-        <translation type="unfinished"></translation>
+        <translation>largeur</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>%sheight</source>
-        <translation type="unfinished"></translation>
+        <translation>%hauteur</translation>
     </message>
     <message>
         <location line="+1"/>
         <source> and </source>
-        <translation type="unfinished"></translation>
+        <translation> et </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%sdifferent between first and this video stream</source>
-        <translation type="unfinished"></translation>
+        <translation>%s différent entre le premier et ce flux Vidéo</translation>
     </message>
     <message>
         <location line="+1"/>
         <source> are </source>
-        <translation type="unfinished"></translation>
+        <translation> sont </translation>
     </message>
     <message>
         <location line="+0"/>
         <source> is </source>
-        <translation type="unfinished"></translation>
+        <translation> est </translation>
     </message>
     <message>
         <location line="+2"/>
